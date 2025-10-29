@@ -1,53 +1,7 @@
-# 🌐 Website Configuration
 title: "Nir Ellor"
 description: "AI & Web3 Developer | Research Assistant at The Hebrew University of Jerusalem"
-url: "https://nirellor.github.io"
-github_username: nirellor
-show_downloads: false
-
-
-# 👤 Author Info
-author:
-  name: "Nir Ellor"
-  email: "nirellor@gmail.com"
-  github: "nirellor"
-  linkedin: "https://www.linkedin.com/in/nirellor"
-  location: "Jerusalem, Israel"
-  bio: >
-    Autodidact Research Assistant and BSc Computer Science student at The Hebrew University of Jerusalem.
-    Passionate about Machine Learning, Blockchain, and Full-Stack Development.  
-    Currently developing decentralized data marketplaces and AI-driven applications.
-
-# 🎨 Theme Settings
-theme: jekyll-theme-cayman  # You can also try: jekyll-theme-minimal, jekyll-theme-modernist
-show_downloads: false
-google_analytics: false
-markdown: kramdown
-
-# 🧭 Navigation Links (for future navbar sections)
-nav:
-  - name: "Home"
-    link: "/"
-  - name: "Projects"
-    link: "/projects"
-  - name: "About"
-    link: "/about"
-  - name: "Contact"
-    link: "/contact"
-
-# ⚙️ Build Settings
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# 🖼️ Social Media Links (optional)
-social_links:
-  github: "https://github.com/nirellor"
-  linkedin: "https://www.linkedin.com/in/nirellor"
-  email: "mailto:nirellor@gmail.com"
-
-# 📁 Collections (optional for portfolio pages)
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
+theme: jekyll-theme-cayman
+author: "Nir Ellor"
+email: "nirellor@gmail.com"
+github_username: "nirellor"
+linkedin: "https://www.linkedin.com/in/nirellor"

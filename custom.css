@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(-45deg, #0f2027, #2c5364, #00bfa6, #007cf0);
+  background-size: 400% 400%;
+  animation: gradientMove 12s ease infinite;
+}
+
+h2 {
+  color: #ffffff !important;
+  text-shadow: 0 0 20px #00e5ff;
+}

@@ -21,6 +21,7 @@
 - ✉️ [Email](mailto:nirellorwaizner@gmail.com)
 
 
+<link rel="stylesheet" href="/custom.css">
 <style>
 body {
   background: linear-gradient(-45deg, #2c5364, #203a43, #0f2027, #00bfa6);

@@ -1,4 +1,4 @@
-<h2 class="intro typewriter">👨‍💻 Hi, I'm Nir</h2>
+<h2 class="intro typewriter glow">👨‍💻 Hi, I'm Nir</h2>
 
 🧠 **Full Stack Web3 Developer** at Renana Peres Lab  
 🎓 3rd-year **Computer Science student** at **The Hebrew University of Jerusalem**  
@@ -24,11 +24,12 @@
 
 <style>
 body {
-  background: linear-gradient(-45deg, #00111a, #003c3c, #005555, #007c7c);
+  background: linear-gradient(-45deg, #2c5364, #203a43, #0f2027, #00bfa6);
   background-size: 400% 400%;
   animation: gradientMove 12s ease infinite;
   color: #ffffff;
   font-family: 'Segoe UI', Roboto, sans-serif;
+  text-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
 
 @keyframes gradientMove {
@@ -39,7 +40,7 @@ body {
 
 .typewriter {
   overflow: hidden;
-  border-right: .15em solid #00ffaa;
+  border-right: .15em solid #00e5ff;
   white-space: nowrap;
   letter-spacing: .05em;
   animation:
@@ -47,7 +48,6 @@ body {
     blink-caret .8s step-end infinite;
   display: inline-block;
   color: #ffffff;
-  text-shadow: 0 0 12px #00ffaa;
 }
 
 @keyframes typing {
@@ -57,7 +57,7 @@ body {
 
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: #00ffaa; }
+  50% { border-color: #00e5ff; }
 }
 
 .intro, p, li {
@@ -70,12 +70,22 @@ body {
   100% { opacity: 1; }
 }
 
+.glow {
+  text-shadow: 0 0 15px #00e5ff, 0 0 25px #00bfa6;
+  animation: pulseGlow 3s ease-in-out infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% { text-shadow: 0 0 10px #00bfa6, 0 0 20px #00e5ff; }
+  100% { text-shadow: 0 0 25px #00bfa6, 0 0 35px #00e5ff; }
+}
+
 a {
-  color: #00ffaa;
+  color: #00e5ff;
   text-decoration: none;
   transition: 0.3s;
 }
 a:hover {
-  text-shadow: 0 0 10px #00ffaa;
+  text-shadow: 0 0 10px #00e5ff;
 }
 </style>

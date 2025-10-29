@@ -9,10 +9,7 @@
 ---
 
 ### 🧩 Featured Projects
-🪙 [Mining Bot](https://github.com/NirEllor/MiningBot)
-🔢 [MNIST Convolutional Autoencoder](https://github.com/NirEllor/MNIST-Convolutional-Autoencoder)
-🤖 [Mini GPT-2](https://github.com/NirEllor/Probabilistic-Models-Transformer-for-Language-Modeling)
-🕵️‍♂️ [Deepfake Detector](https://github.com/NirEllor/Deepfake-Detection-with-CNNs)
+🪙 [Mining Bot](https://github.com/NirEllor/MiningBot) / 🔢 [MNIST Convolutional Autoencoder](https://github.com/NirEllor/MNIST-Convolutional-Autoencoder) / 🤖 [Mini GPT-2](https://github.com/NirEllor/Probabilistic-Models-Transformer-for-Language-Modeling) / 🕵️‍♂️ [Deepfake Detector](https://github.com/NirEllor/Deepfake-Detection-with-CNNs)
 
 ---
 

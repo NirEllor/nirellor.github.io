@@ -20,7 +20,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/nirellor)
 - ✉️ [Email](mailto:nirellorwaizner@gmail.com)
 
----
 
 <style>
 body {

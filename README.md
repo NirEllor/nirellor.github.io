@@ -1,4 +1,4 @@
-###👋 Hi, I'm Nir Ellor
+### 👋 Hi, I'm Nir Ellor
 
 💻 **Experienced Full Stack Web3 developer** at Renana Peres lab  
 

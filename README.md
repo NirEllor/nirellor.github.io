@@ -1,6 +1,3 @@
-
-#### 👨‍💻 Hi, I'm Nir
-
 🧠 **Full Stack Web3 Developer** at Renana Peres Lab  
 
 🎓 3rd-year **Computer Science student** at **The Hebrew University of Jerusalem**  
@@ -22,7 +19,4 @@
 ---
 
 ### 🌐 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nirellor)
-- ✉️ [Email](mailto:nirellorwaizner@gmail.com)
-}
-</style>
+[Email](mailto:nirellorwaizner@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nirellor) / [Github](https://github.com/NirEllor)

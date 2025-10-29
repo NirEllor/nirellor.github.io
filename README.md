@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Nir Ellor
 
-🎓 Computer Science student at **The Hebrew University of Jerusalem**  
-💻 Research Assistant in **AI, Blockchain & Web3**  
-🚀 Passionate about **Machine Learning, Full-Stack Development, and Decentralized Systems**
+💻 Full Stack Web3 developer at Renana Peres lab**  
+🎓 3rd year Computer Science student at **The Hebrew University of Jerusalem**  
+🚀 Passionate about **Machine Learning, Full-Stack Development, and Blockchain**
 
 ---
 
-### 🌐 Find me online
-- [GitHub](https://github.com/nirellor)
+### 🌐 For positions and proects, contact me!
 - [LinkedIn](https://www.linkedin.com/in/nirellor)
-- [Email](mailto:nirellor@gmail.com)
+- [Email](mailto:nirellorwaizner@gmail.com)
 

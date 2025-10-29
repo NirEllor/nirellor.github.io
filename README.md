@@ -1,5 +1,3 @@
-## 👨‍💻 Hi, I'm Nir
-
 🧠 **Full Stack Web3 Developer** at Renana Peres Lab  
 🎓 3rd-year **Computer Science student** at **The Hebrew University of Jerusalem**  
 🚀 Strong academic foundation in **Deep Learning**  

@@ -1,3 +1,16 @@
+<h2 class="fade-in">👨‍💻 Hi, I'm Nir</h2>
+
+<style>
+.fade-in {
+  animation: fadeIn 2s ease-in forwards;
+  opacity: 0;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
 
 #### 👨‍💻 Hi, I'm Nir
 

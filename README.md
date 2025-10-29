@@ -12,6 +12,14 @@
 
 ---
 
+
+Projects:
+
+Mining Bot(https://github.com/NirEllor/MiningBot)
+MNIST-Convolutional-Autoencoder(https://github.com/NirEllor/MNIST-Convolutional-Autoencoder)
+Mini GPT-2(https://github.com/NirEllor/Probabilistic-Models-Transformer-for-Language-Modeling)
+Deepfake Detector(https://github.com/NirEllor/Deepfake-Detection-with-CNNs)
+
 ### 🌐 Contact me!
 - [LinkedIn](https://www.linkedin.com/in/nirellor)
 - [Email](mailto:nirellorwaizner@gmail.com)

@@ -4,3 +4,10 @@ theme: jekyll-theme-cayman
 url: "https://nirellor.github.io"
 github_username: nirellor
 show_downloads: false
+
+
+# 👤 Author
+author: "Nir Ellor"
+email: "nirellorwaizner@gmail.com"
+github_username: "nirellor"
+linkedin: "https://www.linkedin.com/in/nirellor"

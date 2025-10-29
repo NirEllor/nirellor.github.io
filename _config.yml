@@ -2,7 +2,9 @@
 title: "Nir Ellor"
 description: "AI & Web3 Developer | Research Assistant at The Hebrew University of Jerusalem"
 url: "https://nirellor.github.io"
-baseurl: ""  # Leave empty for main GitHub Pages site
+github_username: nirellor
+show_downloads: false
+
 
 # 👤 Author Info
 author:

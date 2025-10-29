@@ -1,4 +1,3 @@
-<div class="fade-in">
 
 #### 👨‍💻 Hi, I'm Nir
 
@@ -25,23 +24,5 @@
 ### 🌐 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nirellor)
 - ✉️ [Email](mailto:nirellorwaizner@gmail.com)
-
-</div>
-
-<style>
-.fade-in {
-  animation: fadeIn 1.8s ease-in-out forwards;
-  opacity: 0;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 </style>

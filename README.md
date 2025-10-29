@@ -23,7 +23,6 @@
 ---
 
 <style>
-/* 🌌 רקע מונפש */
 body {
   background: linear-gradient(-45deg, #0f2027, #2c5364, #00bfa6, #007cf0);
   background-size: 400% 400%;
@@ -38,7 +37,6 @@ body {
   100% { background-position: 0% 50%; }
 }
 
-/* ✨ אפקט הקלדה */
 .typewriter {
   overflow: hidden;
   border-right: .15em solid #00e5ff;
@@ -62,7 +60,6 @@ body {
   50% { border-color: #00e5ff; }
 }
 
-/* 💫 אפקט כניסה עדין לשאר הטקסט */
 .intro, p, li {
   opacity: 0;
   animation: fadeIn 2.5s ease forwards;
@@ -73,7 +70,6 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* 🎨 קישורים */
 a {
   color: #00e5ff;
   text-decoration: none;

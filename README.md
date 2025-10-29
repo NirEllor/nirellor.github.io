@@ -1,4 +1,5 @@
-👋 Hi, I'm Nir
+# Nir Ellor Waizner
+###👋 Hi, I'm Nir
 
 💻 **Experienced Full Stack Web3 developer** at Renana Peres lab  
 
@@ -15,10 +16,10 @@
 
 Projects:
 
-Mining Bot(https://github.com/NirEllor/MiningBot)
-MNIST-Convolutional-Autoencoder(https://github.com/NirEllor/MNIST-Convolutional-Autoencoder)
-Mini GPT-2(https://github.com/NirEllor/Probabilistic-Models-Transformer-for-Language-Modeling)
-Deepfake Detector(https://github.com/NirEllor/Deepfake-Detection-with-CNNs)
+- [Mining Bot](https://github.com/NirEllor/MiningBot)
+- [MNIST-Convolutional-Autoencoder](https://github.com/NirEllor/MNIST-Convolutional-Autoencoder)
+- [Mini GPT-2](https://github.com/NirEllor/Probabilistic-Models-Transformer-for-Language-Modeling)
+- [Deepfake Detector](https://github.com/NirEllor/Deepfake-Detection-with-CNNs)
 
 ### 🌐 Contact me!
 - [LinkedIn](https://www.linkedin.com/in/nirellor)

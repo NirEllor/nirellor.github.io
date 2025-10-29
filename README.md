@@ -1,4 +1,8 @@
-## 👨‍💻 Hi, I'm Nir
+<div align="center">
+
+# 👨‍💻 Hi, I'm Nir
+
+</div>
 
 🧠 **Full Stack Web3 Developer** at Renana Peres Lab  
 🎓 3rd-year **Computer Science student** at **The Hebrew University of Jerusalem**  

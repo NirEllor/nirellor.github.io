@@ -1,7 +1,6 @@
 title: "Nir Ellor"
-description: "AI & Web3 Developer | Research Assistant at The Hebrew University of Jerusalem"
+description: "AI & Web3 Developer Portfolio"
 theme: jekyll-theme-cayman
-author: "Nir Ellor"
-email: "nirellor@gmail.com"
-github_username: "nirellor"
-linkedin: "https://www.linkedin.com/in/nirellor"
+url: "https://nirellor.github.io"
+github_username: nirellor
+show_downloads: false

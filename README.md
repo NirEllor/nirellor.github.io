@@ -1,7 +1,8 @@
 <h2 class="intro typewriter">👨‍💻 Hi, I'm Nir</h2>
+
 🧠 **Full Stack Web3 Developer** at Renana Peres Lab  
 🎓 3rd-year **Computer Science student** at **The Hebrew University of Jerusalem**  
-🚀 Strong academic foundation in **Deep Learning**  
+🚀 Strong academic foundation in **Deep Learning**, **Generative Models**, and **Optimization**  
 🎯 **8200 alumni** — Data Analyst & Project Manager  
 🤖 Future vision: mastering **AI**, expanding **Full-Stack** & **Web3** expertise
 
@@ -81,5 +82,4 @@ a {
 a:hover {
   text-shadow: 0 0 8px #00e5ff;
 }
-</style>
 </style>

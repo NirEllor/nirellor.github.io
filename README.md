@@ -24,10 +24,10 @@
 
 <style>
 body {
-  background: linear-gradient(-45deg, #0f2027, #2c5364, #00bfa6, #007cf0);
+  background: linear-gradient(-45deg, #00111a, #003c3c, #005555, #007c7c);
   background-size: 400% 400%;
-  animation: gradientMove 10s ease infinite;
-  color: #e0e0e0;
+  animation: gradientMove 12s ease infinite;
+  color: #ffffff;
   font-family: 'Segoe UI', Roboto, sans-serif;
 }
 
@@ -39,15 +39,15 @@ body {
 
 .typewriter {
   overflow: hidden;
-  border-right: .15em solid #00e5ff;
+  border-right: .15em solid #00ffaa;
   white-space: nowrap;
   letter-spacing: .05em;
   animation:
     typing 3s steps(20, end),
     blink-caret .8s step-end infinite;
   display: inline-block;
-  color: #00e5ff;
-  text-shadow: 0 0 8px #00e5ff;
+  color: #ffffff;
+  text-shadow: 0 0 12px #00ffaa;
 }
 
 @keyframes typing {
@@ -57,7 +57,7 @@ body {
 
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: #00e5ff; }
+  50% { border-color: #00ffaa; }
 }
 
 .intro, p, li {
@@ -66,17 +66,16 @@ body {
 }
 
 @keyframes fadeIn {
-  0%   { opacity: 0; }
-  50%  { opacity: 0.3; }
+  0% { opacity: 0; }
   100% { opacity: 1; }
 }
 
 a {
-  color: #00e5ff;
+  color: #00ffaa;
   text-decoration: none;
   transition: 0.3s;
 }
 a:hover {
-  text-shadow: 0 0 8px #00e5ff;
+  text-shadow: 0 0 10px #00ffaa;
 }
 </style>

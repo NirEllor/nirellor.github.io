@@ -1,15 +1,14 @@
 #### 👨‍💻 Hi, I'm Nir
 
-💻 **Full Stack Web3 Developer** at Renana Peres Lab  
-🎓 3rd-year **Computer Science student** at **The Hebrew University of Jerusalem**  
-🧠 Strong academic foundation in **Deep Learning**, **Generative Models**, and **Optimization**  
-🔍 **8200 alumni** — Data Analyst & Project Manager  
-🎯 Future vision: mastering **AI**, expanding **Full-Stack** & **Web3** expertise
+💻 **Full Stack Developer, Researcher & CS Student** at **The Hebrew University of Jerusalem**  
+🧠 Focused on **GenAI** and **3D Computer Vision**  
+🚀 Aspiring **ML/CV Engineer** — building scalable, cutting-edge end-to-end systems  
+🔍 **8200 Alumni** — Data Analyst & Project Manager  
 
 ---
 
-### 🧩 Featured Projects
-🪙 [Mining Bot (Simulation)](https://github.com/NirEllor/MinierBot) / 🔢 [Convolutional AE](https://github.com/NirEllor/MNIST-Convolutional-Autoencoder) / 🤖 [Mini GPT-2](https://github.com/NirEllor/Probabilistic-Models-Transformer-for-Language-Modeling) / 🕵️‍♂️ [Deepfake Detector](https://github.com/NirEllor/Deepfake-Detection-with-CNNs)
+### 🧩 Pinned Projects
+🔎 [Visual GenAI Search](https://github.com/NirEllor/Visual_GenAI_search) / 🕵️‍♂️ [Deepfake Detector](https://github.com/NirEllor/Deepfake-Detection-with-CNNs) / 📐 [Deep Learning Optimization](https://github.com/NirEllor/convex_optimization) / 🤖 [Ad Extracter Bot](https://github.com/NirEllor/AdExtracterBot) / 🪙 [Miner Bot](https://github.com/NirEllor/MinerBot) / 🌐 [Web3 Data Marketplace](https://github.com/Renana-Lab/bc)
 
 ---
 

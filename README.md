@@ -7,7 +7,7 @@
 
 ---
 
-### 🧩 Pinned Projects
+### 🧩 Projects
 🔎 [Visual GenAI Search](https://github.com/NirEllor/Visual_GenAI_search) / 🕵️‍♂️ [Deepfake Detector](https://github.com/NirEllor/Deepfake-Detection-with-CNNs) / 📐 [Deep Learning Optimization](https://github.com/NirEllor/convex_optimization) / 🤖 [Ad Extracter Bot](https://github.com/NirEllor/AdExtracterBot) / 🪙 [Miner Bot](https://github.com/NirEllor/MinerBot) / 🌐 [Web3 Data Marketplace](https://github.com/Renana-Lab/bc)
 
 ---
